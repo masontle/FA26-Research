@@ -1,0 +1,11 @@
+{
+  "data_dir": "C:\\Users\\mason\\OneDrive\\Desktop\\Personal Coding Stuff\\Fall 2026 Research\\Damocles Switchboard\\data\\author_replication_data",
+  "analysis_requested": "figures",
+  "analyses_completed": [
+    "citations",
+    "figures",
+    "firm",
+    "panelrobust",
+    "patents"
+  ]
+}
