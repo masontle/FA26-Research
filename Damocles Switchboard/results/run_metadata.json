@@ -1,11 +1,19 @@
 {
-  "data_dir": "C:\\Users\\mason\\OneDrive\\Desktop\\Personal Coding Stuff\\Fall 2026 Research\\Damocles Switchboard\\data\\author_replication_data",
-  "analysis_requested": "figures",
-  "analyses_completed": [
-    "citations",
-    "figures",
-    "firm",
-    "panelrobust",
-    "patents"
-  ]
+  "data_dir": "data/author_replication_data",
+  "completed": {
+    "citations": {
+      "finished_utc": "2026-11-11T20:52:11+00:00"
+    },
+    "figures": {
+      "finished_utc": "2026-11-11T20:52:16+00:00"
+    },
+    "firm": {
+      "finished_utc": "2026-11-11T18:33:01+00:00",
+      "fx_exact_date": false,
+      "r_match_covariates": true
+    },
+    "patents": {
+      "finished_utc": "2026-11-11T18:30:38+00:00"
+    }
+  }
 }
